@@ -1,3 +1,42 @@
+RO en attente de la fin de migration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # package
 ## Chercher dans quel paquet se trouve une commande XXX
 Le nombre de temps que j'ai perdu à trouver quel paquet installer pour avoir cette fichue commande XXX est colossal. Ca vallait bien un premier article sur les paquets...
